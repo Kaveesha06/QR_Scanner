@@ -77,7 +77,7 @@ Contributions are welcome! Please open issues or pull requests to help improve t
 ## 🙋‍♂️ Author
 
 - **Kaveesha06**  
-  [GitHub Profile](https://github.com/Kaveesha06)
+  ![GitHub Profile](https://github.com/Kaveesha06)
 
 ---
 
