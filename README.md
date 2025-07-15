@@ -52,15 +52,6 @@ python qrScanner.py
 
 ---
 
-## 📂 Project Structure
-
-```
-qrScanner.py   # Main script to run the QR scanner
-README.md      # Project documentation
-```
-
----
-
 ## ✨ Demo
 
 > **Simple, fast, and gets the job done!**  
@@ -76,13 +67,8 @@ Contributions are welcome! Please open issues or pull requests to help improve t
 
 ## 🙋‍♂️ Author
 
-- **Kaveesha06**  
-  ![GitHub Profile](https://github.com/Kaveesha06)
+- **Kaveesha06**  [GitHub Profile](https://github.com/Kaveesha06)
 
 ---
 
 > *Made with Python, for everyone who needs a straightforward QR code scanning solution.*
-
-```
-For more details, visit the [repository’s code](https://github.com/Kaveesha06/QR_Scanner).
-```
